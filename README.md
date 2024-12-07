@@ -1,22 +1,6 @@
 <!DOCTYPE html> 
 <html> 
 <head> 
-<title>About Me</title> 
-<style>
-body {
-text-align: left;
-margin: 20px;
-    font-family: Arial, sans-serif;
-}
-h2, h3, p, ul {
-text-align: left;
-}
-ul {
-list-style-type: disc;
-margin-left: 20px;
-}
-</style>
-</head> 
 
 <body> 
 <h2>Hello! My name is Lauren Jayne Perks.</h2>
@@ -36,7 +20,7 @@ margin-left: 20px;
 </ul>
     
 <h3>Work Experience:</h3>
-p><strong>Mcdonalds:</strong> I worked at Mcdonalds as front of house staff. My job included taking customer orders, putting them through the computer system, ensuring the order was up to company standards, and delivering the order to the customer. I also worked on food and beverage preparation, money handling, cleaning, and following company policies for good customer service.</p>
+<p><strong>Mcdonalds:</strong> I worked at Mcdonalds as front of house staff. My job included taking customer orders, putting them through the computer system, ensuring the order was up to company standards, and delivering the order to the customer. I also worked on food and beverage preparation, money handling, cleaning, and following company policies for good customer service.</p>
     
 <p><strong>Tangled Hair Salon:</strong> I completed my level 1 in hairdressing through an apprenticeship. My job included greeting customers, preparing beverages, assisting stylists in consultations and hair appointments, money handling for payments, and performing cleaning duties.</p>
     
@@ -58,6 +42,12 @@ p><strong>Mcdonalds:</strong> I worked at Mcdonalds as front of house staff. My 
 <li>Complete my degree and graduate with a 2:1 or above.</li>
 <li>Get my first mortgage and buy a home for myself and my children.</li>
 <li>Tick off all the destinations on my travel bucket list.</li>
+</ul>
+
+<h3>Recent projects i've completed:</h4>
+<p>Information Management, Assurance And Security- Decryption techniques report,ERD and SQL Scenario Practical Assessment</p>
+<p> Professionalism Employability Enterprise and Problem-Solving- Group presentation,Github portfolio,Project proposal and reflective summary</p>
+<p>Programming-Codegrade coursework 1 and coursework</p>
 </ul>
 </body> 
 

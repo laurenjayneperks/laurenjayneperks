@@ -4,7 +4,7 @@
 
 <body> 
 <h2>Hello! My name is Lauren Jayne Perks👋.</h2>
-<p>I'm 25 years old, born 13/05/1999🎂, and reside in Treforest, South Wales 🐉. I'm a mother to two daughters👧👧 and enjoy spending my free time with my family👨‍👩‍👧‍👧.</p>
+<p>I'm 26 years old, born 13/05/1999🎂, and reside in Treforest, South Wales 🐉. I'm a mother to two daughters👧👧 and enjoy spending my free time with my family👨‍👩‍👧‍👧.</p>
 <h3>What I am currently doing:</h3>
 <p>I am currently studying in my first year of my degree📚, BSc (Hons) Computer Science👩‍💻, at The University of South Wales, Treforest. My current employment is at Gatto Lounge🍽️, which is a restaurant and bar. My role is front of house staff, and on a typical shift, I usually work in the dispense section of the bar🍹.</p>
     
